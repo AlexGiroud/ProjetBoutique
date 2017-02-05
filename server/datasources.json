@@ -1,0 +1,16 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "bdd": {
+    "host": "localhost",
+    "port": 27017,
+    "url": "mongodb://localhost/ProjetBoutiqueAVAG",
+    "database": "ProjetBoutiqueAVAG",
+    "password": "",
+    "name": "bdd",
+    "user": "",
+    "connector": "mongodb"
+  }
+}
